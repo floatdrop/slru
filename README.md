@@ -1,7 +1,7 @@
 # slru
 [![Go Reference](https://pkg.go.dev/badge/github.com/floatdrop/slru.svg)](https://pkg.go.dev/github.com/floatdrop/slru)
 [![CI](https://github.com/floatdrop/slru/actions/workflows/ci.yml/badge.svg)](https://github.com/floatdrop/slru/actions/workflows/ci.yml)
-![Coverage](https://img.shields.io/badge/Coverage-44.4%25-yellow)
+![Coverage](https://img.shields.io/badge/Coverage-75.8%25-yellow)
 [![Go Report Card](https://goreportcard.com/badge/github.com/floatdrop/slru)](https://goreportcard.com/report/github.com/floatdrop/slru)
 
 Thread safe GoLang S(2)LRU cache.
