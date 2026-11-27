@@ -4,6 +4,9 @@
 ![Coverage](https://img.shields.io/badge/Coverage-75.8%25-yellow)
 [![Go Report Card](https://goreportcard.com/badge/github.com/floatdrop/slru)](https://goreportcard.com/report/github.com/floatdrop/slru)
 
+> [!CAUTION]
+> This repository is archived. Eviction implementations moved to [evict](https://github.com/floatdrop/evict) library.
+
 Thread safe GoLang S(2)LRU cache.
 
 ## Example
